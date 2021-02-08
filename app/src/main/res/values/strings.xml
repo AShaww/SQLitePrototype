@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LiteSQLTest</string>
+    <string name="CustomerName">Customer Name</string>
+    <string name="CustomerAge">Customer Age</string>
+    <string name="ActiveCustomer">Active Customer</string>
+</resources>
